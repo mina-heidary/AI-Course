@@ -88,7 +88,7 @@ An advanced Telegram bot that leverages Groq's high-speed LLM API to summarize t
 1. **Alireza Alem**
 2. **Nadia Karami**
 3. **Melina Malakjan**
-4. 
+4. **Mahmoud Sheibani**
 5. 
 
 ## 📄 License
