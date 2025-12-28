@@ -9,10 +9,10 @@
 Project Title: NexMind – Digital Mental Health Assistant  
 Course Name: Artificial Intelligence  
 University Name: Rafsanjani Complex, Islamic Azad University  
-Instructor: Dr. Maryam Hajesmaeili  
+Instructor: Dr. Maryam Haji Esmaeili  
 
 ### 👥 Team Members
-- Leader: [Reyhane Salehi ] – [ReyhaneSalehi]
+- Leader: [Reyhane Salehi ] – [40110130117462]
 - [Student Name 2] – [Student ID]
 - [Student Name 3] – [Student ID]
 - [Student Name 4] – [Student ID]
