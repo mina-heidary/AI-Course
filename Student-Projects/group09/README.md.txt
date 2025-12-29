@@ -11,7 +11,9 @@
 
 ## 🚀 Object Detection Web Application
 
-![Application Demo](assets/demo.gif)
+<video width="800" controls loop muted playsinline style="border-radius: 8px;">
+  <source src="assets/demo.mp4" type="video/mp4">
+</video>
 
 **A web-based object detection system using YOLOv8 and Streamlit**
 
@@ -124,7 +126,7 @@ object-detection-app/
 ├── models/                  # YOLO model storage
 │
 └── assets/                  # Demonstration and resource files
-    └── demo.gif            # Animated demonstration
+    └── demo.mp4            # MP4 demonstration video
 ```
 
 ## 🔧 Installation Guide
