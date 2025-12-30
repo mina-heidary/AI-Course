@@ -19,6 +19,7 @@ Islamic Azad University, Central Tehran Branch
 
 **🧩 Team Members**  
 - Parsa Keshavarz Hedayati
+- Melika Rezaei
 
 ### 🎯 Project Title
 **Sport_ChatBot – An AI-Based Fitness Assistant**
