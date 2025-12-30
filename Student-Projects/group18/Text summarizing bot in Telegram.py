@@ -36,8 +36,8 @@ DB_PATH = os.path.join(BASE_DIR, "summary_cache.sqlite")
 os.makedirs(BASE_DIR, exist_ok=True)
 
 # =========================== Config (ENV VARS) ===========================
-TELEGRAM_TOKEN="8415748526:AAEZJl46BiDpvTRFHmTBm1Bs0fdNIER-zG0"
-OPENAI_API_KEY= "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"
+TELEGRAM_TOKEN="TELEGRAM_TOKEN"
+OPENAI_API_KEY= "OPENAI_API_KEY"
 
 SUMMARY_PROMPTS = {
     "short": "Summarize the following text in exactly 3 concise bullet points.",
